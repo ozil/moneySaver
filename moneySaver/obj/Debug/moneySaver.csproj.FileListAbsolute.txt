@@ -1,0 +1,13 @@
+E:\moneySaver\moneySaver\bin\Debug\moneySaver.dll
+E:\moneySaver\moneySaver\bin\Debug\moneySaver.pdb
+E:\moneySaver\moneySaver\bin\Debug\moneySaver.dll.mdb
+E:\moneySaver\moneySaver\bin\Debug\moneySaver.moneySaver.apk
+E:\moneySaver\moneySaver\bin\Debug\moneySaver.moneySaver-Signed.apk
+E:\moneySaver\moneySaver\obj\Debug\moneySaver.dll
+E:\moneySaver\moneySaver\obj\Debug\moneySaver.pdb
+E:\moneySaver\moneySaver\obj\Debug\android\bin\moneySaver.moneySaver.apk
+E:\moneySaver\moneySaver\obj\Debug\res\layout\main.xml
+E:\moneySaver\moneySaver\obj\Debug\res\values\strings.xml
+E:\moneySaver\moneySaver\obj\Debug\res\drawable\icon.png
+E:\moneySaver\moneySaver\obj\Debug\R.cs.flag
+E:\moneySaver\moneySaver\obj\Debug\uploadflags.txt
